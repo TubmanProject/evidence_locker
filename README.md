@@ -1,44 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Alibi Checker 
 
-## Available Scripts
+Users can upload location history data from Google. The program converts the location history data into a series of numbers that are anonymous, not stored on any server, and cannot be reverse-engineered to find the user's location history data. 
 
-In the project directory, you can run:
+Officials can use the series of numbers to verify whether the user was at a location a crime was committed. 
 
-### `npm start`
+## To run the project
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```
+git clone https://github.com/niharikasingh/tubmanproject.git
+cd tubmanproject
+yarn
+yarn start
+```
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Check their documentation if you're still having trouble running the project. 
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+## To learn more about the project
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[Check out these handy slides](https://docs.google.com/presentation/d/1vQXO1mDGEZ1WhiiUeWZ8vWqOftQXAy4ZxtzniDOpvFQ/edit?usp=sharing)
