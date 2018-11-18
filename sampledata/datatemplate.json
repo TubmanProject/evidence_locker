@@ -1,0 +1,52 @@
+{
+  "timestampMs": ,
+  "latitudeE7": ,
+  "longitudeE7": ,
+  "accuracy": ,
+  "velocity": ,
+  "altitude": ,
+  "verticalAccuracy": ,
+  "activity":
+  [
+    {
+      "timestampMs": ,
+      "activity":
+      [
+        {
+          "type": ,
+          "confidence":
+        }
+      ]
+    },
+    {
+      "timestampMs": ,
+      "activity":
+      [
+        {
+          "type": ,
+          "confidence":
+        }
+      ]
+    },
+    {
+      "timestampMs": ,
+      "activity":
+      [
+        {
+          "type": ,
+          "confidence":
+        }
+      ]
+    },
+    {
+      "timestampMs": ,
+      "activity":
+      [
+        {
+          "type": ,
+          "confidence":
+        }
+      ]
+    }
+  ]
+},
